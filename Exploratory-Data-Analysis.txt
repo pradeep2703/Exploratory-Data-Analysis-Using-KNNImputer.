@@ -1,0 +1,11 @@
+Exploratory-Data-Analysis Using KNNIMPUTER.
+
+
+Missing Values in the dataset is one heck of a problem before we could get into Modelling.
+
+A lot of machine learning algorithms demand those missing values be imputed before proceeding further.
+
+
+THIS NOTEBOOK HAS BEEN DONE USING KNN IMPUTER TO FILL THE MISSING VALUES AND SKEWNESS IS PLOTTED.
+
+DATASET: TITANIC DATASET
